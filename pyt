@@ -19,3 +19,4 @@ else:
             else:
                 if P<35:
                        print("fail")
+print("Result")
